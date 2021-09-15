@@ -18,4 +18,7 @@ LDA 2-Dimensional topic visualization using pyLDAvis:
 
 Finally after labelling each cluster into pre-defined topics from the list of topics, we use classification models to verify the final result. Can be found in Topic_classification.ipynb. 
 
+![Untitled](https://user-images.githubusercontent.com/36213156/133376470-4586a060-84a6-44f0-9b6b-e105ccd853a2.png)
+
+
 
